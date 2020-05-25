@@ -2,7 +2,7 @@
 GACF - Graph Autoencoder Collaborative Filtering
 Paper:
 Paper authors: Mo Nguyen, Jian Yu, Tung Nguyen,...
-Coded by: Tung Nguyen, Mo Nguyen
+Coded by: Tung Nguyen, Mo Nguyen, Jian Yu
 
 ## GACF Intro 
 
